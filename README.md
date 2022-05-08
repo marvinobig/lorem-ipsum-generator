@@ -2,10 +2,10 @@
 This python script allows you to generate lorem ipsum text.
 
 ## Demonstration
-![Pysum Demonstration](pysum.gif)
+![Pysum Demonstration](demonstration/pysum.gif)
 
 ## Screenshot
-![Pysum Screenshot](pysum-screenshot.jpg)
+![Pysum Screenshot](demonstration/pysum-screenshot.jpg)
 
 ## Features
 - Generate lorem ipsum text
