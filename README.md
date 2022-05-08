@@ -11,6 +11,7 @@ This python script allows you to generate lorem ipsum text.
 - Generate lorem ipsum text
 - Choose how many words you want.
 - Choose how many paragraphs you want.
+- Create .txt file with text ready to use. 
 
 ## Languages/Tools used:
 - Python
