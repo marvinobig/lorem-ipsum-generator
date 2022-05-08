@@ -53,3 +53,4 @@ with open("lorem.txt", "r") as loremSource:
 
 print("\n\n")
 welcome.seperator(180)
+print('File Created')
