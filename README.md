@@ -1,6 +1,12 @@
 # Lorem Ipsum Generator
 This python script allows you to generate lorem ipsum text.
 
+## Demonstration
+![Pysum Demonstration](pysum.gif)
+
+## Screenshot
+![Pysum Screenshot](pysum-screenshot.jpg)
+
 ## Features
 - Generate lorem ipsum text
 - Choose how many words you want.
