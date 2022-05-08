@@ -1,5 +1,4 @@
 import random
-import os
 import welcome
 
 loremWords = []
@@ -25,11 +24,6 @@ with open("lorem.txt", "r") as loremSource:
         quit()
 
     welcome.seperator(180)
-
-    #filepath = os.path.join('c:/your/full/path', 'Generated Lorem Ipsum')
-
-    #if not os.path.exists("/documents/Pysum"):
-        #os.makedirs("/documents/Pysum")
 
     with open("pysum.txt", "a") as generatedFile:
         while paragraphNum < paragraphs:
